@@ -1,0 +1,13 @@
+C:\Users\yocch\source\repos\N_DiscordStatus\N_DiscordStatus\bin\Debug\N_DiscordStatus.exe.config
+C:\Users\yocch\source\repos\N_DiscordStatus\N_DiscordStatus\bin\Debug\N_DiscordStatus.exe
+C:\Users\yocch\source\repos\N_DiscordStatus\N_DiscordStatus\bin\Debug\N_DiscordStatus.pdb
+C:\Users\yocch\source\repos\N_DiscordStatus\N_DiscordStatus\obj\Debug\N_DiscordStatus.Form1.resources
+C:\Users\yocch\source\repos\N_DiscordStatus\N_DiscordStatus\obj\Debug\N_DiscordStatus.Properties.Resources.resources
+C:\Users\yocch\source\repos\N_DiscordStatus\N_DiscordStatus\obj\Debug\N_DiscordStatus.csproj.GenerateResource.cache
+C:\Users\yocch\source\repos\N_DiscordStatus\N_DiscordStatus\obj\Debug\N_DiscordStatus.csproj.CoreCompileInputs.cache
+C:\Users\yocch\source\repos\N_DiscordStatus\N_DiscordStatus\obj\Debug\N_DiscordStatus.exe
+C:\Users\yocch\source\repos\N_DiscordStatus\N_DiscordStatus\obj\Debug\N_DiscordStatus.pdb
+C:\Users\yocch\source\repos\N_DiscordStatus\N_DiscordStatus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yocch\source\repos\N_DiscordStatus\N_DiscordStatus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yocch\source\repos\N_DiscordStatus\N_DiscordStatus\obj\Debug\N_DiscordStatus.csproj.CopyComplete
+C:\Users\yocch\source\repos\N_DiscordStatus\N_DiscordStatus\obj\Debug\N_DiscordStatus.Setting.resources
